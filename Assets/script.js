@@ -13,7 +13,7 @@ $(document).ready(function() {
   var today = dayjs();
   $("#currentDay").text(today.format("[Today is] dddd, MMM D"));
 
-  var moment = dayjs().hour()-10;
+  var moment = dayjs().hour();
 
   $("#to-do9").val(localStorage.getItem("hour9"));
   $("#to-do10").val(localStorage.getItem("hour10"));
