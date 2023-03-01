@@ -13,6 +13,6 @@ Day planner with updated date and time using moment.js. Color coded time marker 
 ### links
 
 web application
-[label](Assets/Work%20Day%20Scheduler.webm)
+![Alt text](Assets/Work%20Day%20Scheduler.gif)
 https://iamian777.github.io/The-Planner-HW/
 https://github.com/IamIan777/The-Planner-HW
